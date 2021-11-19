@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @manuelbocchia
 - 👀 I’m interested in videogames, web design, programming... well, music, writing, reading, painting, anything really. Except sports, I guess.
-- 🌱 I’m currently learning the fundamentals of web developments, I have finished the basics of HTML and CSS and I'm setting up a few projects.
+- 🌱 I’m currently learning the fundamentals of web development, I have finished the basics of HTML and CSS and I'm setting up a few projects.
 I'm diving deep into JS as well right now, my next step will be to create some cool frontend stuff to settle everything inside, and then I'll go straight
 into SQL and databases.
 - 💞️ I’m looking to collaborate on anything really. Simple things at the moment, but I have many ideas for the future!
